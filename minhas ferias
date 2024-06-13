@@ -3,20 +3,12 @@
      <head>
          <meta charset = "utf-8">
          <meta name = "viewport"content = "width = device - width, initial-scalen= 1.0'>
-         <title> Beatriz </title>
+         <title> Beatriz n°01 3°B </title>
      </head>  
      <body> 
-  <h1> <mark style = "background - color: green"> Exercício de Programação </mark> </h1>
-  <h2> <mark style = "background - color: vermelho"> Minhas Férias </mark> <h2>
-  <h3> <ins> Eu fiz nas minhas férias: </ins> </h3>
-  <p1>Nas minhas ferias nao fiz muita coisa, a maior parte do tempo fiquei em casa assitindo series e filmes, sai algumas vezes para a casa dos meus amigos ou resolver alguma coisa com meus pais</p1>
-  <Strong> o que eu fiz: </strong> 
+  <h1> <mark style = "background - color: green">Programação </mark> </h1>
+  <h2> <mark style = "background - color: vermelho"> Projeto de vida </mark> <h2>
+  <h3> <ins> Projeto de vida: </ins> </h3>
+  <p1>Meu nome é Beatriz Rocha de Espindola tenho 16 anos, estudo no Colegio Sao Pedro Apostolo e o meu projeto atualmente é estudar para o ENEM e conseguir uma bolsa de estudos, pretendo cursar bioquimica, gostaria de fazer outras faculdades do meu interesse durante minha vida, como filosofia, sociologia, moda, artes cenicas...entre outras.Mas a principal atualmente é a Bioquimica </strong> 
    <ol> 
-   <li>Assisti a segunda temporada de shameless <img src = "shameless" Alt = "texto da imagem"> </li>
-   <li> vi um filme muito legal chamado jogador numero 1 <img src = "jogador n1" Alt = "texto da imagem"> </li> 
-   <li>e terminei de asssitir a serie Clark <img src = "shopping estação" Alt = "texto da imagem"> </li>
-  </ol>
-  <strong>o que eu comi: </strong>
-   <ul> 
-   <li> pastel <img src = "pastel" Alt = "texto da imagem"> </li> 
-   <li> churros <img src = "churros" Alt = "texto da imagem"> </li> 
+      <li> churros <img src = "churros" Alt = "texto da imagem"> </li> 
