@@ -1,0 +1,15 @@
+    <!DOCTYPE html>
+    <html lang = "pt-br"> 
+     <head>
+         <meta charset = "utf-8">
+         <meta name = "viewport"content = "width = device - width, initial-scalen= 1.0'>
+         <title> Beatriz n°01 3°B </title>
+     </head>  
+     <body> 
+  <h1> <mark style = "background - color: blue">Programação </mark> </h1>
+  <h2> <mark style = "background - color: red"> Projeto de vida </mark> <h2>
+  <h3> <ins> Projeto de vida: </ins> </h3>
+  <p1>Meu nome é Beatriz Rocha de Espindola tenho 16 anos, estudo no Colegio Sao Pedro Apostolo e o meu projeto atualmente é estudar para o ENEM e conseguir uma bolsa de estudos, pretendo cursar bioquimica, gostaria de fazer outras faculdades do meu interesse durante minha vida, como filosofia, sociologia, moda, artes cenicas...entre outras.Mas a principal atualmente é a Bioquimica, pois quero trabalhar na área de cosméticos.</p1>
+</body>
+   <ol> 
+      <li> imagem <img src = "imagem" Alt = "texto da imagem"> </li> 
